@@ -5,7 +5,6 @@
 
 #include <EthernetUdp.h>
 
-#include "ArrayRawMap.hpp"
 #include "IP.hpp"
 #include "to_CharPointer_IP.hpp"
 #include "SerialServer.hpp"
